@@ -1,5 +1,5 @@
 # Xcode Source Editor Extension: "Outlet Fixer"
-An Xcode Source Editor Extension to add a MARK comment above any extension of a source file
+An Xcode Source Editor Extension to make IBOutlets weak, private and optional
 
 
 Xcode Source Editor Extensions are located in Menu -> Editor. 
